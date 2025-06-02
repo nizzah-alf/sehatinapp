@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81881221806",
+    "project_id": "sehatinlogin",
+    "storage_bucket": "sehatinlogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81881221806:android:7a4ace03bd5d74bdeabb3f",
+        "android_client_info": {
+          "package_name": "com.example.sehatinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81881221806-mvpce75ef4qe6ft2npqq1b7a1antphku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sehatinapp",
+            "certificate_hash": "0d4ba3d4e98efb156bd9c2e99e4f1f310a127eb8"
+          }
+        },
+        {
+          "client_id": "81881221806-cslm0d82cnrc408ct4p51hi3camt57bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoI4rhKT21FVABNrdo_xsPyxfJ60-XSb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81881221806-cslm0d82cnrc408ct4p51hi3camt57bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
